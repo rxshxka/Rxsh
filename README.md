@@ -5,8 +5,8 @@ Welcome to my little corner of GitHub 💻✨
 ---
 
 ## 👩🏻‍💻 About Me
-- 🎓 B.Tech in Information Science & Engineering (BMS College)
-- 📍 Based in Bangalore, India 🇮🇳  
+- 🎓 B.Tech in Information Science & Engineering (BMS College of Engineering)
+- 📍 Based in Bangalore, India  
 - 🌱 Currently learning **UI/UX Design & Full Stack Development**  
 - ☕ Powered by hot chocolate & late-night coding sessions  
 - 🎨 Love mixing **creativity + tech** to build cool things  
@@ -38,5 +38,4 @@ Welcome to my little corner of GitHub 💻✨
 
 ---
 
-✨ Thanks for stopping by! Have a lovely day 💖  
-
+✨ Thanks for stopping by!
